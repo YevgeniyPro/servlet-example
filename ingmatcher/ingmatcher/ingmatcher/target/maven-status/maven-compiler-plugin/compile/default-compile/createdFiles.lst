@@ -1,0 +1,16 @@
+ch/ingredientmatching/lexer/LevenshteinDistance.class
+ch/ingredientmatching/setup/Config.class
+ch/ingredientmatching/lexer/InputBlackList.class
+ch/ingredientmatching/lexer/LexWord.class
+ch/ingredientmatching/main/MatchingServlet.class
+ch/ingredientmatching/main/IngredientMatching.class
+ch/ingredientmatching/matcher/Matcher.class
+ch/ingredientmatching/lexer/ParentWord.class
+ch/ingredientmatching/matcher/MatchWordComparator.class
+ch/ingredientmatching/setup/ConfigMatcherSimple.class
+ch/ingredientmatching/matcher/MatchWord.class
+ch/ingredientmatching/main/Examples.class
+ch/ingredientmatching/lexer/NGramAnalyzer.class
+ch/ingredientmatching/setup/ConfigMatcherEnhanced.class
+ch/ingredientmatching/lexer/Lexer.class
+ch/ingredientmatching/lexer/Index.class

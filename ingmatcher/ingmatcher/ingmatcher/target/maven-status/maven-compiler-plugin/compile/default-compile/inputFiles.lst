@@ -1,0 +1,16 @@
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/lexer/InputBlackList.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/matcher/MatchWordComparator.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/main/Examples.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/lexer/NGramAnalyzer.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/setup/ConfigMatcherEnhanced.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/matcher/Matcher.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/matcher/MatchWord.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/lexer/Lexer.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/lexer/LevenshteinDistance.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/lexer/LexWord.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/main/MatchingServlet.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/setup/ConfigMatcherSimple.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/lexer/ParentWord.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/lexer/Index.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/setup/Config.java
+/Users/yevgeniy/Eaternity/ingmatcher/ingmatcher/ingmatcher/src/main/java/ingredientmatching/main/IngredientMatching.java
